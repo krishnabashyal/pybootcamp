@@ -1,0 +1,1 @@
+print("lekhdina kei ne ")
